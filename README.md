@@ -1,16 +1,12 @@
-# Poised-Manager-gitTask
-### You are asked to create a project management system for a small structural engineering firm called “Poised”. 
-### Poised does the engineering needed to ensure the structural integrity of various buildings.
-### They want you to create a Java program that they can use to keep track of the many projects on which they work.
-### Poised stores the following information for each project that they work on:
-* ● Project number.
-* ● Project name.
-* ● What type of building is being designed? E.g. House, apartment block orstore, etc.
-* ● The physical address for the project.
-* ● ERF number.
-* ● The total fee being charged for the project.
-* ● The total amount paid to date.
-* ● Deadline for the project.
-* ● The name, telephone number, email address and physical address of the architect for the project.
-* ● The name, telephone number, email address and physical address of the contractor for the project.
-* ● The name, telephone number, email address and physical address of the customer for the project.
+Objective: Design and implement a database named PoisePMS to manage project information, assuming:
+
+One project per structural engineer, project manager, architect, and customer.
+Deliverables:
+
+Entity-Relationship Diagram (ERD): Visually depict the relationships between tables.
+Dependency Diagrams: Specify data dependencies within each table.
+Database Creation Script: Show the code used to create the tables in your chosen platform.
+Sample Data Insertion: Showcase the addition of at least two rows for each table with screenshots or code snippets.
+Challenge:
+
+Design and implement the PoisePMS database, fulfilling the listed requirements with clear and comprehensive documentation. Demonstrate data insertion for each table within your chosen database platform.
